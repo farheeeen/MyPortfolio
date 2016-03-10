@@ -1,0 +1,44 @@
+#main_guitarpage3 {
+	height: 752px;
+	width: 1200px;
+	margin: auto;
+	border: 1px solid brown;
+	background-color: #E6E6E6;
+	padding-top: 10px;
+	background-image:url("image/guitarpg4.jpg");
+	background-repeat:no-repeat;
+}
+
+#navigation3 {
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	border: 1px solid pink;
+}
+
+#confirm {
+	margin-top: 10px;
+	margin-left: 285px;
+	font-size: 60px;
+	text-decoration: underline;
+}
+
+.data {
+	height: 155px;
+	width: 350px;
+	border: 1px transparent;
+	margin-top: 10px;
+	margin-left: 70px;
+	background-color:#F2F2F2;
+}
+
+#home {
+	height: 30px;
+	width: 100px;
+	border: 1px solid grey;
+	margin-top: 10px;
+	margin-right: 2px;
+	float: right;
+	background-color: #FAEBD7;
+	border-radius: 8px;
+}
